@@ -1,0 +1,16 @@
+.main {
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+
+    .articles {
+        width: 68.5%;
+        float: left;
+        margin-right: 1.5%;
+        padding: 20px;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        background-color: white;
+        text-align: justify;
+    }
+}
